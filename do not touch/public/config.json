@@ -1,0 +1,169 @@
+{
+  "website": {
+    "status": "ONLINE"
+  },
+  "hero": {
+    "headlinePrefix": "Further",
+    "headlineHighlight": "Beyond.",
+    "subtitle": "STEM RACING // SEASON 08 // COIMBATORE",
+    "status": "REIGNING 1ST PLACE TEAM FROM THE ALL-INDIA STEM RACING INDIA NATIONAL QUALIFIERS | CURRENTLY COMPETING ON THE FINAL NATIONAL STAGE.",
+    "accolades": "Overall Champions & Winners of the Sustainability Award - STEM Racing India National Qualifiers.",
+    "ctaText": "[ INITIATE_PARTNERSHIP ]",
+    "ctaLink": "https://forms.gle/XmwxVcuLbaCed3tG7"
+  },
+  "stemRacing": {
+    "sectionSubtitle": "[ ECOSYSTEM // COMPETITION ]",
+    "headlinePrefix": "STEM ",
+    "headlineHighlight": "RACING",
+    "footerText": "THE WORLDS LARGEST STEM COMPETITION",
+    "paragraphs": [
+      "STEM Racing is a multi-disciplinary global challenge where student teams design, engineer, and manufacture miniature compressed air-powered cars based on official regulations.",
+      "It goes beyond racing—demanding excellence in project management, enterprise, aerodynamic design, and rigorous testing to achieve maximum velocity and efficiency."
+    ],
+    "stats": [
+      {
+        "label": "[ GLOBAL_REACH ]",
+        "value": "40+",
+        "description": "Participating Countries"
+      },
+      {
+        "label": "[ ACTIVE_ROSTER ]",
+        "value": "20M+",
+        "description": "Students Worldwide"
+      }
+    ]
+  },
+  "identity": {
+    "sectionSubtitle": "[ PHILOSOPHY // DOCTRINE ]",
+    "headlinePrefix": "WE AT ",
+    "headlineHighlight": "CARDINAL",
+    "footerText": "Team Identity",
+    "pillars": [
+      {
+        "number": "01",
+        "title": "WHY CARDINAL?",
+        "paragraphs": [
+          "We are a pre-professional engineering syndicate. We operate at the intersection of precision engineering, high-velocity aerodynamics, premium aesthetics, and aggressive brand strategy.",
+          "Cardinal refers to <span class='text-signal font-semibold'>fundamental reference directions</span>— fixed points that bring clarity and precision.",
+          "For us, it represents designing with intent, not guesswork. Every decision aligns to a clear reference: <span class='text-signal tracking-wide uppercase text-xs font-code'>performance, compliance, and purpose</span>."
+        ]
+      },
+      {
+        "number": "02",
+        "title": "FURTHER BEYOND.",
+        "paragraphs": [
+          "Further Beyond defines our mindset. It means going past the first acceptable solution. Past assumptions. Past limits set by convention.",
+          "We believe performance emerges from refinement— <span class='text-signal italic'>through iteration, analysis, and intent.</span>",
+          "Further Beyond is not about excess, but about pushing carefully, intelligently, and consistently."
+        ]
+      },
+      {
+        "number": "03",
+        "title": "OUR PHILOSOPHY",
+        "quote": "\"If an element does not improve clarity, performance, or recognition, it does not belong.\"",
+        "subQuote": "Every aspect of Cardinal — design, engineering, branding, and presentation — is driven by precision over noise."
+      }
+    ],
+    "metadata": "ORIGIN: COIMBATORE, INDIA | ESTABLISHED: 2025 | CLASS: STEM RACING OPEN NATIONALS"
+  },
+  "systems": {
+    "sectionSubtitle": "SYSTEM_ARCHITECTURE :: CARDINAL_F1",
+    "headlinePrefix": "TECHNICAL_",
+    "headlineHighlight": "SPECIFICATIONS",
+    "cars": [
+      {
+        "tabName": "SEASON 08 (CARDINAL :: ZERO)",
+        "modelPath": "/F1Car.fbx",
+        "specs": [
+          {
+            "label": "CHASSIS_CODE",
+            "val": "CARDINAL :: ZERO"
+          },
+          {
+            "label": "DRAG_COEFFICIENT",
+            "val": "0.14 Cd"
+          },
+          {
+            "label": "WEIGHT",
+            "val": "54.5g"
+          },
+          {
+            "label": "MATERIAL",
+            "val": "POLYURETHANE / PLA"
+          },
+          {
+            "label": "VELOCITY",
+            "val": "20m/s [EST]"
+          }
+        ]
+      },
+      {
+        "tabName": "SEASON 09 (CARDINAL :: ONE)",
+        "modelPath": "/F1Car.fbx",
+        "specs": [
+          {
+            "label": "CHASSIS_CODE",
+            "val": "CARDINAL :: ONE"
+          },
+          {
+            "label": "DRAG_COEFFICIENT",
+            "val": "500"
+          },
+          {
+            "label": "WEIGHT",
+            "val": "TBD"
+          },
+          {
+            "label": "MATERIAL",
+            "val": "TBD"
+          },
+          {
+            "label": "VELOCITY",
+            "val": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  "unit": {
+    "headlinePrefix": "PERSONNEL_",
+    "headlineHighlight": "MANIFEST",
+    "members": [
+      {
+        "name": "NEEL KULKARNI",
+        "role": "// TEAM PRINCIPAL",
+        "spec": "STRATEGY / OPS",
+        "image": ""
+      },
+      {
+        "name": "MANTHAN BHARADAVA",
+        "role": "// LEAD ENGINEER",
+        "spec": "AERODYNAMICS / CFD / DESIGN",
+        "image": ""
+      },
+      {
+        "name": "RAGHAV BAHADUR",
+        "role": "// ENTERPRISE DIRECTOR",
+        "spec": "SYSTEMS ARCHITECTURE / SOFTWARE DEVELOPMENT / DESIGN",
+        "image": ""
+      },
+      {
+        "name": "RUDRA BHARADAVA",
+        "role": "// FINANCE & PIT DISPLAY ENGINEER",
+        "spec": "RESOURCE ALLOCATION / MANUFACTURING",
+        "image": ""
+      }
+    ]
+  },
+  "footer": {
+    "systemId": "CARDINAL_WEB_V1.1",
+    "copyright": "2026 CARDINAL :: DESIGN",
+    "location": "COIMBATORE, IN",
+    "links": [
+      {
+        "label": "[ INSTAGRAM ]",
+        "url": "https://instagram.com/cardinal_systems"
+      }
+    ]
+  }
+}
