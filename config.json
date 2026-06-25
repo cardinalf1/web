@@ -1,0 +1,159 @@
+{
+  "website": {
+    "status": "ONLINE"
+  },
+  "hero": {
+    "headlinePrefix": "Further",
+    "headlineHighlight": "Beyond.",
+    "subtitle": "STEM RACING // SEASON 08 // COIMBATORE",
+    "status": "REIGNING 1ST PLACE TEAM FROM THE ALL-INDIA STEM RACING INDIA NATIONAL QUALIFIERS | CURRENTLY COMPETING ON THE FINAL NATIONAL STAGE.",
+    "accolades": "Overall Champions & Winners of the Sustainability Award - STEM Racing India National Qualifiers.",
+    "ctaText": "[ INITIATE_PARTNERSHIP ]",
+    "ctaLink": "https://forms.gle/XmwxVcuLbaCed3tG7"
+  },
+  "stemRacing": {
+    "sectionSubtitle": "[ ECOSYSTEM // COMPETITION ]",
+    "headlinePrefix": "STEM ",
+    "headlineHighlight": "RACING",
+    "footerText": "THE WORLDS LARGEST STEM COMPETITION",
+    "paragraphs": [
+      "STEM Racing is a multi-disciplinary global challenge where student teams design, engineer, and manufacture miniature compressed air-powered cars based on official regulations.",
+      "It goes beyond racing—demanding excellence in project management, enterprise, aerodynamic design, and rigorous testing to achieve maximum velocity and efficiency."
+    ],
+    "stats": [
+      {
+        "label": "[ GLOBAL_REACH ]",
+        "value": "40+",
+        "description": "Participating Countries"
+      },
+      {
+        "label": "[ ACTIVE_ROSTER ]",
+        "value": "20M+",
+        "description": "Students Worldwide"
+      }
+    ]
+  },
+  "identity": {
+    "sectionSubtitle": "[ PHILOSOPHY // DOCTRINE ]",
+    "headlinePrefix": "WE AT ",
+    "headlineHighlight": "CARDINAL",
+    "footerText": "Team Identity",
+    "quote": "\"FURTHER BEYOND\"",
+    "status": "REIGNING 1ST PLACE TEAM FROM THE ALL-INDIA STEM RACING INDIA NATIONAL QUALIFIERS | CURRENTLY COMPETING ON THE FINAL NATIONAL STAGE.",
+    "accoladesList": [
+      {
+        "title": "OVERALL CHAMPIONS",
+        "event": "STEM RACING INDIA NATIONAL QUALIFIERS"
+      },
+      {
+        "title": "SUSTAINABILITY AWARD",
+        "event": "STEM RACING INDIA NATIONAL QUALIFIERS"
+      }
+    ],
+    "about": [
+      "Cardinal is an engineering collective operating at the extreme intersection of high-performance design and commercial enterprise.",
+      "Rooted in the principles of continuous iteration, we treat brand identity, resource management, and aerodynamic development as a singular interconnected system."
+    ],
+    "metadata": "ORIGIN: COIMBATORE, INDIA | ESTABLISHED: 2025 | CLASS: STEM RACING"
+  },
+  "systems": {
+    "sectionSubtitle": "SYSTEM_ARCHITECTURE :: CARDINAL_F1",
+    "headlinePrefix": "TECHNICAL_",
+    "headlineHighlight": "SPECIFICATIONS",
+    "cars": [
+      {
+        "tabName": "QUALIFIERS",
+        "modelPath": "qualifiers.fbx",
+        "specs": [
+          {
+            "label": "CHASSIS_CODE",
+            "val": "CARDINAL :: ZERO"
+          },
+          {
+            "label": "DRAG_COEFFICIENT",
+            "val": "0.5 Cd"
+          },
+          {
+            "label": "WEIGHT",
+            "val": "70g"
+          },
+          {
+            "label": "MATERIAL",
+            "val": "ABS"
+          },
+          {
+            "label": "VELOCITY",
+            "val": "20m/s [EST]"
+          }
+        ]
+      },
+      {
+        "tabName": "NATIONALS",
+        "modelPath": "nationals.fbx",
+        "specs": [
+          {
+            "label": "CHASSIS_CODE",
+            "val": "ZERO :: TWO"
+          },
+          {
+            "label": "DRAG_COEFFICIENT",
+            "val": "0.25 Cd"
+          },
+          {
+            "label": "WEIGHT",
+            "val": "50g"
+          },
+          {
+            "label": "MATERIAL",
+            "val": "NYLON 12"
+          },
+          {
+            "label": "VELOCITY",
+            "val": "25m/s"
+          }
+        ]
+      }
+    ]
+  },
+  "unit": {
+    "headlinePrefix": "PERSONNEL_",
+    "headlineHighlight": "MANIFEST",
+    "members": [
+      {
+        "name": "NEEL KULKARNI",
+        "role": "// TEAM PRINCIPAL",
+        "spec": "STRATEGY / OPS",
+        "image": "pics/Neel.png"
+      },
+      {
+        "name": "MANTHAN BHARADAVA",
+        "role": "// LEAD ENGINEER",
+        "spec": "AERODYNAMICS / CFD / DESIGN",
+        "image": "pics/manthan.png"
+      },
+      {
+        "name": "RAGHAV BAHADUR",
+        "role": "// ENTERPRISE DIRECTOR",
+        "spec": "SYSTEMS ARCHITECTURE / SOFTWARE DEVELOPMENT / DESIGN",
+        "image": "pics/raghav.png"
+      },
+      {
+        "name": "RUDRA BHARADAVA",
+        "role": "// FINANCE & PIT DISPLAY ENGINEER",
+        "spec": "RESOURCE ALLOCATION / MANUFACTURING",
+        "image": "pics/rudra.png"
+      }
+    ]
+  },
+  "footer": {
+    "systemId": "CARDINAL_WEB_V1.1",
+    "copyright": "2026 CARDINAL :: DESIGN",
+    "location": "COIMBATORE, IN",
+    "links": [
+      {
+        "label": "[ INSTAGRAM ]",
+        "url": "https://instagram.com/cardinal_systems"
+      }
+    ]
+  }
+}
